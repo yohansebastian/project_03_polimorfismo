@@ -30,6 +30,7 @@ public class Animal {
     public void setGender(String gender) {
         this.gender = gender;
     }
+
     public void makeSoung(){
         System.out.println("Miau");
     }

@@ -6,11 +6,9 @@ public class Cat extends Animal {
     public Cat(int size) {
         super(size);
     }
-
     public String getTypeHair() {
         return typeHair;
     }
-
     public void setTypeHair(String typeHair) {
         this.typeHair = typeHair;
     }
